@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/grubbin/static/css/main.a59c6f6b.css",
-    "main.js": "/grubbin/static/js/main.ac21c97a.js",
+    "main.js": "/grubbin/static/js/main.16f35ba0.js",
     "static/js/885.99e28ab4.chunk.js": "/grubbin/static/js/885.99e28ab4.chunk.js",
     "static/js/453.3ed3418c.chunk.js": "/grubbin/static/js/453.3ed3418c.chunk.js",
     "static/media/click.mp3": "/grubbin/static/media/click.7f139b396a1194e8727a.mp3",
     "index.html": "/grubbin/index.html",
     "main.a59c6f6b.css.map": "/grubbin/static/css/main.a59c6f6b.css.map",
-    "main.ac21c97a.js.map": "/grubbin/static/js/main.ac21c97a.js.map",
+    "main.16f35ba0.js.map": "/grubbin/static/js/main.16f35ba0.js.map",
     "885.99e28ab4.chunk.js.map": "/grubbin/static/js/885.99e28ab4.chunk.js.map",
     "453.3ed3418c.chunk.js.map": "/grubbin/static/js/453.3ed3418c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a59c6f6b.css",
-    "static/js/main.ac21c97a.js"
+    "static/js/main.16f35ba0.js"
   ]
 }
